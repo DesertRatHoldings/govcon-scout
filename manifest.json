@@ -1,0 +1,20 @@
+{
+  "name": "GovCon Scout",
+  "short_name": "GovCon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1F2A",
+  "theme_color": "#0B1F2A",
+  "icons": [
+    {
+      "src": "govcon-scout-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "govcon-scout-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
